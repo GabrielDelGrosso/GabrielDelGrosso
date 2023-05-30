@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielDelGrosso
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gabriel.pelegrino1@gmail.com
 
